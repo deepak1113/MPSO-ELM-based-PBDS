@@ -1,6 +1,6 @@
 # MPSO-ELM-based-PBDS
 
-# Use Matlab 2014a to run the code
+# Use Matlab 2014a and higher version to run the code
 
 Imgdataset255.mat contains the preprocessed MR images of DS-255
 
